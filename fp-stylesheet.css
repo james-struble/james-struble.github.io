@@ -1,0 +1,67 @@
+/*General Styling*/
+h1 {
+    color: rgb(252, 112, 57);
+}
+
+body {
+    line-height: 140%;
+    margin: 50px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+pre code {
+        font-size: 120%;
+        inline-size: min-content;
+        overflow-wrap: break-word;
+        background-color: #eee;
+        border: 1px solid #999;
+        display: block;
+        padding: 20px;
+}
+/* Table Styling */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+    background-color: lightgray;
+}
+th {
+    background-color: lightgreen;
+}
+.time {
+    background-color: lightpink;
+    text-align: left;
+}
+.math {
+    background-color: lightsalmon;
+}
+.english {
+    background-color: lightcoral;
+}
+
+.it1610 {
+    background-color: lightskyblue;
+}
+
+.formatcorner {
+    background-color: darkgray;
+}
+
+.it1000 {
+    background-color: lightseagreen;
+}
+
+.it2630 {
+    background-color: lightcyan;
+}
+
+.async {
+    background-color: lightsteelblue;
+}
